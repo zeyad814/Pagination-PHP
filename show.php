@@ -29,7 +29,8 @@ $products = $query->fetchAll();
             <img src="..." class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">Card title</h5>
-                <p class="card-text">this is zeyad description</p>
+                <p class="card-text">this is hamada description
+                </p>
                 <a href="#" class="btn btn-primary">Go somewhere</a>
             </div>
         </div>
